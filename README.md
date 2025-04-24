@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Faxriddin Maripov</h1>
+<!-- Typing effect banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Faxriddin+Maripov;Backend+Developer+from+Uzbekistan;I+❤️+Clean+Code+%26+Real-world+Problems&center=true&width=500&height=50">
+</p>
+
+<h1 align="center">👋 Assalomu alaykum, I'm Faxriddin Maripov</h1>
 <h3 align="center">A passionate backend developer from Tashkent, Uzbekistan</h3>
 
 <p align="center">
@@ -14,7 +19,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/faxriddin_maripov" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" />
