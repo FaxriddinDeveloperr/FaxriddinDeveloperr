@@ -3,7 +3,7 @@
 
 
 
-- 📝 I regularly write articles on [https://t.me/BackDevelop](https://t.me/BackDevelop)
+- 📝 I regularly write articles on [https://t.me/BackDevelop](https://t.me/faxriddin_maripov)
 
 - 💬 Ask me about **JavaScript**
 
