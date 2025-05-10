@@ -1,7 +1,11 @@
 <!-- Typing effect banner -->
+<h1 align="center">👋 Assalomu alaykum, I'm Faxriddin Maripov</h1>
+<h3 align="center">Backend Developer from Tashkent, Uzbekistan</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=👋+Assalomu+alaykum%2C+I'm+Faxriddin+Maripov;Backend+Developer+from+Tashkent%2C+Uzbekistan;❤️+Clean+Code+%26+Real-world+Problems+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=❤️+Clean+Code+%26+Real-world+Problems+🚀" alt="Typing SVG" />
 </p>
+
 
 
 
