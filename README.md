@@ -1,7 +1,8 @@
 <!-- Typing effect banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Faxriddin+Maripov;Backend+Developer+from+Uzbekistan;I+❤️+Clean+Code+%26+Real-world+Problems&center=true&width=500&height=50">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20love%20solving%20real-world%20problems%20with%20clean%20code" />
 </p>
+
 
 <h1 align="center">👋 Assalomu alaykum, I'm Faxriddin Maripov</h1>
 <h3 align="center">A passionate backend developer from Tashkent, Uzbekistan</h3>
