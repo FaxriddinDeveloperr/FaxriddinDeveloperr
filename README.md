@@ -6,7 +6,7 @@
 
 <p align="center">
   I specialize in building high-performance backend systems, microservices, and AI-integrated solutions. 
-  <br>Currently leading <b>Ye77i Tech</b> to develop innovative IT ecosystems in Uzbekistan..
+  <br>Currently leading <b>Ye77i Tech</b> to develop innovative IT ecosystems in Uzbekistan.
 </p>
 
 ---
