@@ -11,12 +11,6 @@
 
 ---
 
-### 🚀 About Me
-- 🏗️ **Currently Building:** [StyleUp](https://github.com/FaxriddinDeveloperr) (Booking CRM) & [elchiPochta](https://github.com/FaxriddinDeveloperr) (Logistics System).
-- 🧠 **Expertise:** System Design, Microservices, and AI Agent Integration.
-- 🌱 **Tech Stack:** Node.js (NestJS), TypeScript, PostgreSQL, Docker, and RabbitMQ.
-- 🏢 **Entrepreneurship:** Founder of **Ye77i Tech**.
-- 📍 **Location:** Tashkent, Uzbekistan 🇺🇿
 
 ---
 
